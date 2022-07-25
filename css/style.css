@@ -1,0 +1,15 @@
+.slider-bg {
+    background-color: #FCEAE8;
+}
+
+.buy-now-btn {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.categories img {
+    width: 100px;
+}
